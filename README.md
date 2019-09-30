@@ -4,9 +4,9 @@ A simple server written in Node.js
 
 ## Clone repository
 
-'''
+```
 git clone https://github.com/nahsiloh/simple-node-server.git
-'''
+```
 
 ## Install dependencies
 
